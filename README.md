@@ -6,7 +6,7 @@ Amante de programação e buscando evolução a cada dia
 <div style="dysplay: inline"> 
   &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='90' height='90' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
 <div>
 
 ##

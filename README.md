@@ -1,4 +1,6 @@
 ### Oi, eu sou Marivaldo ⚡
+![MarivaldoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=transparent)
+##
 Amante de programação e buscando evolução a cada dia
 - 👨🏻‍🎓 **Estudante** de programação
 - 🗃️ **Finalizando** o curso de **Desenvolvimento de Sistemas**
@@ -12,7 +14,7 @@ Amante de programação e buscando evolução a cada dia
 <div>
 
 ##
-![MarivaldoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=transparent)
+
 ### Você também pode me encontrar em:
 <div>
   &nbsp;&nbsp;<a href="https://www.linkedin.com/in/marivaldo-pedro-2796bb264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;

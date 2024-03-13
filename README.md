@@ -1,10 +1,10 @@
 ### Oi, eu sou Marivaldo ⚡
-![MarivaldoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=dark)
+![MarivaldoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=cobalt)
 ##
 Amante de programação e buscando evolução a cada dia
 - 👨🏻‍🎓 **Estudante** de programação
 - 🗃️ **Finalizando** o curso de **Desenvolvimento de Sistemas**
-- 🖥️ Atualmente focado em:
+- ⛏️ **Ferramentas** que uso:
 <div style="dysplay: inline"> 
     &nbsp;&nbsp;<img width='70' height='70' style="color: green;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width='90' height='90' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=white&width=650&height=30&lines=print(Salve!+Eu+sou+Marivaldo%2C+e+esse+%C3%A9+meu+GitHub%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=white&width=650&height=30&lines=print(%22Salve!+Eu+sou+Marivaldo%2C+e+esse+%C3%A9+meu+GitHub%22))](https://git.io/typing-svg)
 ![MarivaldoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=cobalt)
 ##
 Amante de programação e buscando evolução a cada dia

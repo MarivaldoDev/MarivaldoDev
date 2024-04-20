@@ -1,9 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=whitew&width=650&height=30&lines=print(%22Salve!+Eu+sou+Marivaldo%2C+e+esse+%C3%A9+meu+GitHub.%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=whitew&width=650&height=50&lines=print(%22Salve!+Eu+sou+Marivaldo%2C+e+esse+%C3%A9+meu+GitHub.%22))](https://git.io/typing-svg)
 
 Amante de programação e buscando evolução a cada dia
 - 👨🏻‍🎓 **Estudante** de programação
 - 🗃️ **Finalizando** o curso de **Desenvolvimento de Sistemas**
 - ⛏️ **Ferramentas** que uso:
+
 <div style="dysplay: inline"> 
     &nbsp;&nbsp;<img width='70' height='70' style="color: green;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width='90' height='90' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
@@ -16,8 +17,8 @@ Amante de programação e buscando evolução a cada dia
 
 <div>
 <a href="https://github.com/MarivaldoDev">
-<img height='180em' src='https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=cobalt'/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarivaldoDev&layout=compact&langs_count=7&theme=cobalt"/>
+<img height='180em' src='https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=tokyonight'/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarivaldoDev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##

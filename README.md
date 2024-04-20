@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=whitew&width=650&height=30&lines=print(%22Salve!+Eu+sou+Marivaldo%2C+e+esse+%C3%A9+meu+GitHub.%22))](https://git.io/typing-svg)
 ![MarivaldoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=cobalt)
+
+<div>
+<a href="https://github.com/MarivaldoDev">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarivaldoDev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ##
 Amante de programação e buscando evolução a cada dia
 - 👨🏻‍🎓 **Estudante** de programação

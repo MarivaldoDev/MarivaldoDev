@@ -7,8 +7,8 @@ Amante de programação e buscando evolução a cada dia
 
 <div style="dysplay: inline"> 
     &nbsp;&nbsp;<img width='80' height='80' style="color: green;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width='90' height='90' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width='80' height='80' src="https://devicon-website.vercel.app/api/django/plain-wordmark.svg?color=%2349E3A8"></img>&nbsp;&nbsp;
+    &nbsp;&nbsp;<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+    &nbsp;&nbsp;<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;

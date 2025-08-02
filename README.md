@@ -8,8 +8,6 @@
 
 <br>
 
-<img align="right" src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" width="130" height="180"/>
-
 <div>
     <a href="https://github.com/MarivaldoDev">
     <img align="center" height='180em' src='https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=tokyonight'/>

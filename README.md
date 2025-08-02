@@ -1,10 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=whitew&width=650&height=50&lines=print(%22Salve!+Eu+sou+Marivaldo%2C+e+esse+%C3%A9+meu+GitHub.%22))](https://git.io/typing-svg)
 
-Amante de programação e buscando evolução a cada dia
-- 👨🏻‍🎓 **Estudante** de programação
-- 🗃️ **Finalizando** o curso de **Desenvolvimento de Sistemas**
-- ⛏️ **Ferramentas** que uso:
+- 👨🏻‍💻 Desenvolvedor **BackEnd**
+- 🌐 Foco em **Desenvolvimento Web** e **automações**
+- 👨🏻‍🎓 **Finalizando** o curso de **Desenvolvimento de Sistemas**
+- 🦾 **Sempre** buscando evoluir
 
+##
+
+<div>
+<a href="https://github.com/MarivaldoDev">
+<img height='180em' src='https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=tokyonight'/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarivaldoDev&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+##
+### 🛠️ Ferramentas que utilizo:  
 <div style="dysplay: inline"> 
     &nbsp;&nbsp;<img width='80' height='80' style="color: green;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width='70' height='70' src="https://devicon-website.vercel.app/api/django/plain.svg?color=%2310BE7B" />&nbsp;&nbsp;
@@ -16,14 +26,6 @@ Amante de programação e buscando evolução a cada dia
     &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
 <div>
-    
-##
-
-<div>
-<a href="https://github.com/MarivaldoDev">
-<img height='180em' src='https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=tokyonight'/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarivaldoDev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ##
 

@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="right" src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" width="180" height="180"/>
+<img align="right" src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" width="130" height="180"/>
 
 <div>
     <a href="https://github.com/MarivaldoDev">

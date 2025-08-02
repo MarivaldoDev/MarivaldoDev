@@ -1,22 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=whitew&width=650&height=50&lines=print(%22Salve!+Eu+sou+Marivaldo%2C+e+esse+%C3%A9+meu+GitHub.%22))](https://git.io/typing-svg)
 
-<div align="left">
-  <p>
-    - 👨🏻‍💻 Desenvolvedor <strong>BackEnd</strong><br>
-    - 🌐 Foco em <strong>Desenvolvimento Web</strong> e <strong>automações</strong><br>
-    - 👨🏻‍🎓 <strong>Finalizando</strong> o curso de <strong>Desenvolvimento de Sistemas</strong><br>
-    - 🦾 <strong>Sempre</strong> buscando evoluir
-  </p>
-</div>
 
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" width="200"/>
-</div>
+- 👨🏻‍💻 Desenvolvedor **BackEnd**
+- 🌐 Foco em **Desenvolvimento Web** e **automações**
+- 👨🏻‍🎓 **Finalizando** o curso de **Desenvolvimento de Sistemas**
+- 🦾 **Sempre** buscando evoluir
+
+<br>
+
+<img align="right" src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" width="180" height="180"/>
 
 <div>
     <a href="https://github.com/MarivaldoDev">
-    <img height='180em' src='https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=tokyonight'/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarivaldoDev&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img align="center" height='180em' src='https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=tokyonight'/>
+    <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarivaldoDev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##

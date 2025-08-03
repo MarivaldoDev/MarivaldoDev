@@ -11,11 +11,12 @@
     <a href="https://github.com/MarivaldoDev">
     <img align="center" height='180em' src='https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=tokyonight'/>
     <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarivaldoDev&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" align="right" width="100" />
+    <img src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" align="right" width="120" heigt="100" />
 </div>
 
 
 ##
+
 ### 🛠️ Ferramentas que utilizo:  
 <div style="dysplay: inline"> 
     &nbsp;&nbsp;<img width='80' height='80' style="color: green;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;

@@ -1,17 +1,26 @@
+<table>
+  <tr>
+    <td>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=whitew&width=650&height=50&lines=print(%22Salve!+Eu+sou+Marivaldo%2C+e+esse+%C3%A9+meu+GitHub.%22))](https://git.io/typing-svg)
 
-- 👨🏻‍💻 Desenvolvedor **BackEnd**
-- 🌐 Foco em **Desenvolvimento Web** e **automações**
-- 👨🏻‍🎓 **Finalizando** o curso de **Desenvolvimento de Sistemas**
+- 👨🏻‍💻 Desenvolvedor **BackEnd**  
+- 🌐 Foco em **Desenvolvimento Web** e **automações**  
+- 👨🏻‍🎓 **Finalizando** o curso de **Desenvolvimento de Sistemas**  
 - 🦾 **Sempre** buscando evoluir
 
+    </td>
+    <td width="200" align="center" style="padding-left: 20px;">
+      <img src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" width="180" />
+    </td>
+  </tr>
+</table>
 <br>
 
 <div align="left>
     <a href="https://github.com/MarivaldoDev">
     <img align="center" height='180em' src='https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=tokyonight'/>
     <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarivaldoDev&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" align="right" width="120" heigt="100" />
 </div>
 
 

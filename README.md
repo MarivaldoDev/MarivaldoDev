@@ -5,8 +5,7 @@
 - 👨🏻‍🎓 **Finalizando** o curso de **Desenvolvimento de Sistemas**
 - 🦾 **Sempre** buscando evoluir
 
-
-<img src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" align="right" width="200" />
+<img src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" align="right" width="100" />
 
 <br>
 

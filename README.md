@@ -5,14 +5,13 @@
 - 👨🏻‍🎓 **Finalizando** o curso de **Desenvolvimento de Sistemas**
 - 🦾 **Sempre** buscando evoluir
 
-<img src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" align="right" width="100" />
-
 <br>
 
 <div align="left>
     <a href="https://github.com/MarivaldoDev">
     <img align="center" height='180em' src='https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=tokyonight'/>
     <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarivaldoDev&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" align="right" width="100" />
 </div>
 
 

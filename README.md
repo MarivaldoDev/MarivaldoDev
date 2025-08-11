@@ -36,6 +36,7 @@
     &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;&nbsp;
+    &nbsp;&nbsp;<img width='90' height='90' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;&nbsp;
     &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
 <div>
 

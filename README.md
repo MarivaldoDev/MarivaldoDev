@@ -27,17 +27,18 @@
 ##
 
 ### 🛠️ Ferramentas que utilizo:  
-<div style="dysplay: inline"> 
-    &nbsp;&nbsp;<img width='80' height='80' style="color: green;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width='70' height='70' src="https://devicon-website.vercel.app/api/django/plain.svg?color=%2310BE7B" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width='70' height='70' src="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%231AAAE8" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width='90' height='90' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
+<div style="display: inline-flex; gap: 20px; flex-wrap: wrap;""> 
+    <img width='70' height='70' src="https://skillicons.dev/icons?i=python&theme=dark" />
+    <img width='70' height='70' src="https://skillicons.dev/icons?i=django&theme=dark" />
+    <img width='70' height='70' src="https://skillicons.dev/icons?i=postgresql&theme=dark" />
+    <img width='70' height='70' src="https://skillicons.dev/icons?i=redis&theme=dark" />
+    <img width='70' height='70' src="https://skillicons.dev/icons?i=docker&theme=dark" />
+    <img width='70' height='70' src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+    <img width='70' height='70' src="https://skillicons.dev/icons?i=selenium&theme=dark" />
+    <img width='70' height='70' src="https://skillicons.dev/icons?i=js&theme=dark" />
+    <img width='70' height='70' src="https://skillicons.dev/icons?i=html&theme=dark" />
+    <img width='70' height='70' src="https://skillicons.dev/icons?i=css&theme=dark" />
+    <img width='70' height='70' src="https://skillicons.dev/icons?i=git&theme=dark" />
 <div>
 
 ##

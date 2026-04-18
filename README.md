@@ -27,19 +27,20 @@
 ##
 
 ### 🛠️ Ferramentas que utilizo:  
-<div style="display: inline-flex; gap: 20px; flex-wrap: wrap;""> 
-    <img width='70' height='70' src="https://skillicons.dev/icons?i=python&theme=dark" />
-    <img width='70' height='70' src="https://skillicons.dev/icons?i=django&theme=dark" />
-    <img width='70' height='70' src="https://skillicons.dev/icons?i=postgresql&theme=dark" />
-    <img width='70' height='70' src="https://skillicons.dev/icons?i=redis&theme=dark" />
-    <img width='70' height='70' src="https://skillicons.dev/icons?i=docker&theme=dark" />
-    <img width='70' height='70' src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-    <img width='70' height='70' src="https://skillicons.dev/icons?i=selenium&theme=dark" />
-    <img width='70' height='70' src="https://skillicons.dev/icons?i=js&theme=dark" />
-    <img width='70' height='70' src="https://skillicons.dev/icons?i=html&theme=dark" />
-    <img width='70' height='70' src="https://skillicons.dev/icons?i=css&theme=dark" />
-    <img width='70' height='70' src="https://skillicons.dev/icons?i=git&theme=dark" />
-<div>
+<p align="left">
+  <img width="70" src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=django&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=postgresql&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=redis&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=selenium&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=js&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=html&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=css&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=azure&theme=dark" />
+</p>
 
 ##
 

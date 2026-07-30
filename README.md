@@ -19,8 +19,8 @@
 
 <div align="left>
     <a href="https://github.com/MarivaldoDev">
-    <img align="center" height='180em' src='https://github-readme-stats.vercel.app/api?username=MarivaldoDev&show_icons=true&theme=tokyonight'/>
-    <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarivaldoDev&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img align="center" height='180em' src='https://github-stats-extended.vercel.app/api?username=MarivaldoDev&include_all_commits=true&theme=algolia'/>
+    <img align="center" loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=MarivaldoDev&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
 

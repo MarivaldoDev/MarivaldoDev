@@ -4,12 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=whitew&width=650&height=50&lines=print(%22Salve!+Eu+sou+Marivaldo%2C+e+esse+%C3%A9+meu+GitHub.%22))](https://git.io/typing-svg)
 
-- 👨🏻‍💻 Desenvolvedor **BackEnd**  
-- 🌐 Foco em **Desenvolvimento Web** e **automações**  
-- 👨🏻‍🎓 **Finalizando** o curso de **Desenvolvimento de Sistemas**  
-- 🦾 **Sempre** buscando evoluir
+Sou **Desenvolvedor Python**, com experiência no desenvolvimento de: <br>
+  - Sistemas web <br>
+  - APIs backend <br>
+  - Automações <br>
+  - Soluções escaláveis <br>
+  
+Atuando como freelancer em projetos voltados para desempenho, **qualidade de código** e boas práticas de **engenharia de software**.
 
-    </td>
+Atuo principalmente com Python, utilizando os frameworks **Django e Flask** para construção de aplicações robustas, seguras e bem estruturadas. Tenho experiência no **desenvolvimento de APIs, integração com bancos de dados relacionais e implementação de soluções focadas em performance e manutenibilidade**.
+
+  </td>
     <td width="200" align="center" style="padding-left: 20px;">
       <img src="https://github.com/user-attachments/assets/a5faefef-8dde-4925-993f-c0501db91931" width="180" />
     </td>
@@ -40,6 +45,7 @@
   <img width="70" src="https://skillicons.dev/icons?i=css&theme=dark" />
   <img width="70" src="https://skillicons.dev/icons?i=git&theme=dark" />
   <img width="70" src="https://skillicons.dev/icons?i=azure&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=linux&theme=dark" />
 </p>
 
 ##

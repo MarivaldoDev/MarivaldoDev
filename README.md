@@ -35,6 +35,7 @@ Atuo principalmente com Python, utilizando os frameworks **Django e Flask** para
 <p align="left">
   <img width="70" src="https://skillicons.dev/icons?i=python&theme=dark" />
   <img width="70" src="https://skillicons.dev/icons?i=django&theme=dark" />
+  <img width="70" src="https://skillicons.dev/icons?i=flask&theme=dark" />
   <img width="70" src="https://skillicons.dev/icons?i=postgresql&theme=dark" />
   <img width="70" src="https://skillicons.dev/icons?i=redis&theme=dark" />
   <img width="70" src="https://skillicons.dev/icons?i=docker&theme=dark" />
